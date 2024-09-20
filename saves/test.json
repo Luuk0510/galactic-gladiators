@@ -1,0 +1,1297 @@
+{
+    "human_player": {
+        "nickname": "test",
+        "gold": 0,
+        "units": [
+            {
+                "unit_type": "Soldier",
+                "position": {
+                    "x": 6,
+                    "y": 4
+                },
+                "rank": 2,
+                "player": "human"
+            },
+            {
+                "unit_type": "Soldier",
+                "position": {
+                    "x": 8,
+                    "y": 0
+                },
+                "rank": 2,
+                "player": "human"
+            },
+            {
+                "unit_type": "Soldier",
+                "position": {
+                    "x": 8,
+                    "y": 1
+                },
+                "rank": 2,
+                "player": "human"
+            },
+            {
+                "unit_type": "Soldier",
+                "position": {
+                    "x": 8,
+                    "y": 2
+                },
+                "rank": 2,
+                "player": "human"
+            },
+            {
+                "unit_type": "Scout",
+                "position": {
+                    "x": 8,
+                    "y": 3
+                },
+                "rank": 1,
+                "player": "human"
+            },
+            {
+                "unit_type": "Soldier",
+                "position": {
+                    "x": 8,
+                    "y": 4
+                },
+                "rank": 2,
+                "player": "human"
+            },
+            {
+                "unit_type": "BattleMaster",
+                "position": {
+                    "x": 8,
+                    "y": 6
+                },
+                "rank": 5,
+                "player": "human"
+            },
+            {
+                "unit_type": "BattleMaster",
+                "position": {
+                    "x": 8,
+                    "y": 7
+                },
+                "rank": 5,
+                "player": "human"
+            },
+            {
+                "unit_type": "Sniper",
+                "position": {
+                    "x": 8,
+                    "y": 8
+                },
+                "rank": 3,
+                "player": "human"
+            },
+            {
+                "unit_type": "Sniper",
+                "position": {
+                    "x": 8,
+                    "y": 9
+                },
+                "rank": 3,
+                "player": "human"
+            },
+            {
+                "unit_type": "Scout",
+                "position": {
+                    "x": 9,
+                    "y": 0
+                },
+                "rank": 1,
+                "player": "human"
+            },
+            {
+                "unit_type": "Soldier",
+                "position": {
+                    "x": 9,
+                    "y": 1
+                },
+                "rank": 2,
+                "player": "human"
+            },
+            {
+                "unit_type": "Soldier",
+                "position": {
+                    "x": 9,
+                    "y": 2
+                },
+                "rank": 2,
+                "player": "human"
+            },
+            {
+                "unit_type": "Scout",
+                "position": {
+                    "x": 9,
+                    "y": 3
+                },
+                "rank": 1,
+                "player": "human"
+            },
+            {
+                "unit_type": "Commando",
+                "position": {
+                    "x": 9,
+                    "y": 4
+                },
+                "rank": 6,
+                "player": "human"
+            },
+            {
+                "unit_type": "Flag",
+                "position": {
+                    "x": 9,
+                    "y": 5
+                },
+                "rank": 0,
+                "player": "human"
+            },
+            {
+                "unit_type": "ShieldBearer",
+                "position": {
+                    "x": 9,
+                    "y": 6
+                },
+                "rank": 4,
+                "player": "human"
+            },
+            {
+                "unit_type": "ShieldBearer",
+                "position": {
+                    "x": 9,
+                    "y": 7
+                },
+                "rank": 4,
+                "player": "human"
+            },
+            {
+                "unit_type": "Sniper",
+                "position": {
+                    "x": 9,
+                    "y": 8
+                },
+                "rank": 3,
+                "player": "human"
+            },
+            {
+                "unit_type": "Commando",
+                "position": {
+                    "x": 9,
+                    "y": 9
+                },
+                "rank": 6,
+                "player": "human"
+            }
+        ]
+    },
+    "ai_player": {
+        "nickname": "AI",
+        "gold": 0,
+        "units": [
+            {
+                "unit_type": "Soldier",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rank": 2,
+                "player": "ai"
+            },
+            {
+                "unit_type": "Scout",
+                "position": {
+                    "x": 0,
+                    "y": 1
+                },
+                "rank": 1,
+                "player": "ai"
+            },
+            {
+                "unit_type": "Soldier",
+                "position": {
+                    "x": 0,
+                    "y": 2
+                },
+                "rank": 2,
+                "player": "ai"
+            },
+            {
+                "unit_type": "Sniper",
+                "position": {
+                    "x": 0,
+                    "y": 3
+                },
+                "rank": 3,
+                "player": "ai"
+            },
+            {
+                "unit_type": "ShieldBearer",
+                "position": {
+                    "x": 0,
+                    "y": 4
+                },
+                "rank": 4,
+                "player": "ai"
+            },
+            {
+                "unit_type": "BattleMaster",
+                "position": {
+                    "x": 0,
+                    "y": 5
+                },
+                "rank": 5,
+                "player": "ai"
+            },
+            {
+                "unit_type": "Soldier",
+                "position": {
+                    "x": 0,
+                    "y": 6
+                },
+                "rank": 2,
+                "player": "ai"
+            },
+            {
+                "unit_type": "Soldier",
+                "position": {
+                    "x": 0,
+                    "y": 7
+                },
+                "rank": 2,
+                "player": "ai"
+            },
+            {
+                "unit_type": "Soldier",
+                "position": {
+                    "x": 0,
+                    "y": 8
+                },
+                "rank": 2,
+                "player": "ai"
+            },
+            {
+                "unit_type": "Commando",
+                "position": {
+                    "x": 0,
+                    "y": 9
+                },
+                "rank": 6,
+                "player": "ai"
+            },
+            {
+                "unit_type": "Scout",
+                "position": {
+                    "x": 1,
+                    "y": 1
+                },
+                "rank": 1,
+                "player": "ai"
+            },
+            {
+                "unit_type": "Flag",
+                "position": {
+                    "x": 1,
+                    "y": 2
+                },
+                "rank": 0,
+                "player": "ai"
+            },
+            {
+                "unit_type": "Soldier",
+                "position": {
+                    "x": 1,
+                    "y": 3
+                },
+                "rank": 2,
+                "player": "ai"
+            },
+            {
+                "unit_type": "Sniper",
+                "position": {
+                    "x": 1,
+                    "y": 4
+                },
+                "rank": 3,
+                "player": "ai"
+            },
+            {
+                "unit_type": "BattleMaster",
+                "position": {
+                    "x": 1,
+                    "y": 5
+                },
+                "rank": 5,
+                "player": "ai"
+            },
+            {
+                "unit_type": "ShieldBearer",
+                "position": {
+                    "x": 1,
+                    "y": 6
+                },
+                "rank": 4,
+                "player": "ai"
+            },
+            {
+                "unit_type": "Soldier",
+                "position": {
+                    "x": 1,
+                    "y": 8
+                },
+                "rank": 2,
+                "player": "ai"
+            },
+            {
+                "unit_type": "Scout",
+                "position": {
+                    "x": 2,
+                    "y": 0
+                },
+                "rank": 1,
+                "player": "ai"
+            },
+            {
+                "unit_type": "Commando",
+                "position": {
+                    "x": 2,
+                    "y": 7
+                },
+                "rank": 6,
+                "player": "ai"
+            },
+            {
+                "unit_type": "Sniper",
+                "position": {
+                    "x": 3,
+                    "y": 9
+                },
+                "rank": 3,
+                "player": "ai"
+            }
+        ]
+    },
+    "tiles": [
+        {
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Soldier",
+                "rank": 2
+            }
+        },
+        {
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Scout",
+                "rank": 1
+            }
+        },
+        {
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Soldier",
+                "rank": 2
+            }
+        },
+        {
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Sniper",
+                "rank": 3
+            }
+        },
+        {
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "ShieldBearer",
+                "rank": 4
+            }
+        },
+        {
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "BattleMaster",
+                "rank": 5
+            }
+        },
+        {
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Soldier",
+                "rank": 2
+            }
+        },
+        {
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Soldier",
+                "rank": 2
+            }
+        },
+        {
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Soldier",
+                "rank": 2
+            }
+        },
+        {
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Commando",
+                "rank": 6
+            }
+        },
+        {
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 1,
+                "y": 1
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Scout",
+                "rank": 1
+            }
+        },
+        {
+            "position": {
+                "x": 1,
+                "y": 2
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Flag",
+                "rank": 0
+            }
+        },
+        {
+            "position": {
+                "x": 1,
+                "y": 3
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Soldier",
+                "rank": 2
+            }
+        },
+        {
+            "position": {
+                "x": 1,
+                "y": 4
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Sniper",
+                "rank": 3
+            }
+        },
+        {
+            "position": {
+                "x": 1,
+                "y": 5
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "BattleMaster",
+                "rank": 5
+            }
+        },
+        {
+            "position": {
+                "x": 1,
+                "y": 6
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "ShieldBearer",
+                "rank": 4
+            }
+        },
+        {
+            "position": {
+                "x": 1,
+                "y": 7
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 1,
+                "y": 8
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Soldier",
+                "rank": 2
+            }
+        },
+        {
+            "position": {
+                "x": 1,
+                "y": 9
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Scout",
+                "rank": 1
+            }
+        },
+        {
+            "position": {
+                "x": 2,
+                "y": 1
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 2,
+                "y": 2
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 2,
+                "y": 3
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 2,
+                "y": 4
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 2,
+                "y": 5
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 2,
+                "y": 6
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 2,
+                "y": 7
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Commando",
+                "rank": 6
+            }
+        },
+        {
+            "position": {
+                "x": 2,
+                "y": 8
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 2,
+                "y": 9
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "tile_type": "highground",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 3,
+                "y": 1
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 3,
+                "y": 2
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 3,
+                "y": 3
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 3,
+                "y": 4
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 3,
+                "y": 5
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 3,
+                "y": 6
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 3,
+                "y": 7
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 3,
+                "y": 8
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 3,
+                "y": 9
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Sniper",
+                "rank": 3
+            }
+        },
+        {
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 4,
+                "y": 1
+            },
+            "tile_type": "highground",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 4,
+                "y": 2
+            },
+            "tile_type": "goldmine",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 4,
+                "y": 3
+            },
+            "tile_type": "cover",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 4,
+                "y": 4
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 4,
+                "y": 5
+            },
+            "tile_type": "goldmine",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 4,
+                "y": 6
+            },
+            "tile_type": "highground",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 4,
+                "y": 7
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 4,
+                "y": 8
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 4,
+                "y": 9
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 5,
+                "y": 1
+            },
+            "tile_type": "goldmine",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 5,
+                "y": 2
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 5,
+                "y": 3
+            },
+            "tile_type": "sensor",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 5,
+                "y": 4
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 5,
+                "y": 5
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 5,
+                "y": 6
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 5,
+                "y": 7
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 5,
+                "y": 8
+            },
+            "tile_type": "sensor",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 5,
+                "y": 9
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "tile_type": "cover",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 6,
+                "y": 1
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 6,
+                "y": 2
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 6,
+                "y": 3
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 6,
+                "y": 4
+            },
+            "tile_type": "sensor",
+            "unit": {
+                "unit_type": "Soldier",
+                "rank": 2
+            }
+        },
+        {
+            "position": {
+                "x": 6,
+                "y": 5
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 6,
+                "y": 6
+            },
+            "tile_type": "sensor",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 6,
+                "y": 7
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 6,
+                "y": 8
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 6,
+                "y": 9
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 7,
+                "y": 0
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 7,
+                "y": 1
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 7,
+                "y": 2
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 7,
+                "y": 3
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 7,
+                "y": 4
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 7,
+                "y": 5
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 7,
+                "y": 6
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 7,
+                "y": 7
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 7,
+                "y": 8
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 7,
+                "y": 9
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Soldier",
+                "rank": 2
+            }
+        },
+        {
+            "position": {
+                "x": 8,
+                "y": 1
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Soldier",
+                "rank": 2
+            }
+        },
+        {
+            "position": {
+                "x": 8,
+                "y": 2
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Soldier",
+                "rank": 2
+            }
+        },
+        {
+            "position": {
+                "x": 8,
+                "y": 3
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Scout",
+                "rank": 1
+            }
+        },
+        {
+            "position": {
+                "x": 8,
+                "y": 4
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Soldier",
+                "rank": 2
+            }
+        },
+        {
+            "position": {
+                "x": 8,
+                "y": 5
+            },
+            "tile_type": "normal",
+            "unit": null
+        },
+        {
+            "position": {
+                "x": 8,
+                "y": 6
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "BattleMaster",
+                "rank": 5
+            }
+        },
+        {
+            "position": {
+                "x": 8,
+                "y": 7
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "BattleMaster",
+                "rank": 5
+            }
+        },
+        {
+            "position": {
+                "x": 8,
+                "y": 8
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Sniper",
+                "rank": 3
+            }
+        },
+        {
+            "position": {
+                "x": 8,
+                "y": 9
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Sniper",
+                "rank": 3
+            }
+        },
+        {
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Scout",
+                "rank": 1
+            }
+        },
+        {
+            "position": {
+                "x": 9,
+                "y": 1
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Soldier",
+                "rank": 2
+            }
+        },
+        {
+            "position": {
+                "x": 9,
+                "y": 2
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Soldier",
+                "rank": 2
+            }
+        },
+        {
+            "position": {
+                "x": 9,
+                "y": 3
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Scout",
+                "rank": 1
+            }
+        },
+        {
+            "position": {
+                "x": 9,
+                "y": 4
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Commando",
+                "rank": 6
+            }
+        },
+        {
+            "position": {
+                "x": 9,
+                "y": 5
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Flag",
+                "rank": 0
+            }
+        },
+        {
+            "position": {
+                "x": 9,
+                "y": 6
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "ShieldBearer",
+                "rank": 4
+            }
+        },
+        {
+            "position": {
+                "x": 9,
+                "y": 7
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "ShieldBearer",
+                "rank": 4
+            }
+        },
+        {
+            "position": {
+                "x": 9,
+                "y": 8
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Sniper",
+                "rank": 3
+            }
+        },
+        {
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "tile_type": "normal",
+            "unit": {
+                "unit_type": "Commando",
+                "rank": 6
+            }
+        }
+    ],
+    "save_time": "25-08-2024 22:47"
+}
