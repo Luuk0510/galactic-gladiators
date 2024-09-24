@@ -58,18 +58,4 @@ Het spel eindigt wanneer de vlag van één van de spelers wordt veroverd. De win
    - **Decorators**: Voor functies zoals het valideren van bewegingen.
 4. Persistentie: Het spel moet kunnen worden opgeslagen en later hervat worden.
 5. User Interface:
-   - **Flask**: HTML/CSS voor weergave van de spelinterface.
    - **PyGame/Arcade**: Ontwerp een GUI die het bord en de spelstatus weergeeft.
-6. Codekwaliteit en -documentatie: Zorg voor onderhoudbare, goed gedocumenteerde code.
-
-## Beoordeling
-
-Het eindresultaat wordt beoordeeld op basis van "voldaan" of "niet voldaan". De volgende criteria moeten worden gevolgd:
-- Alle functionele en technische eisen moeten worden uitgevoerd.
-- Beide studenten moeten de code volledig kunnen uitleggen tijdens het assessment. Het niet kunnen uitleggen van de code leidt tot een directe "niet voldaan".
-
-## Instructies voor Installatie en Gebruik
-
-1. Clone de repository:
-   ```bash
-   git clone [repository-url]
